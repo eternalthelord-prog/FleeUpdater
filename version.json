@@ -1,4 +1,7 @@
 {
-  "version": 0.2,
-  "download": "https://raw.githubusercontent.com/eternalthelord-prog/FleeUpdater/refs/heads/main/Flee.zip"
+  "c2dictionary": true,
+  "data": {
+    "version": 0.2,
+    "download": "https://raw.githubusercontent.com/eternalthelord-prog/FleeUpdater/refs/heads/main/Flee.zip"
+  }
 }
